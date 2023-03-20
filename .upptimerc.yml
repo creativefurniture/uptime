@@ -13,18 +13,6 @@ sites:
     url: https://snowtrace.io/
   - name: OpenChain
     url: https://openchain.xyz/
-  - name: Dev Server
-    check: "tcp-ping"
-    url: $DEV_SERVER
-    port: 22
-  - name: ESXI Provider
-    check: "tcp-ping"
-    url: $ESXI_SERVER
-    port: 443
-  - name: Proxmox Provider
-    check: "tcp-ping"
-    url: $PROXMOX_SERVER
-    port: 8006
     
     
 status-website:
