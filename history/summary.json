@@ -1,95 +1,5 @@
 [
   {
-    "name": "BscScan",
-    "url": "https://bscscan.com/",
-    "icon": "https://icons.duckduckgo.com/ip3/bscscan.com.ico",
-    "slug": "bsc-scan",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 208,
-    "timeDay": 208,
-    "timeWeek": 208,
-    "timeMonth": 208,
-    "timeYear": 208,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "Etherscan",
-    "url": "https://etherscan.io/",
-    "icon": "https://icons.duckduckgo.com/ip3/etherscan.io.ico",
-    "slug": "etherscan",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 229,
-    "timeDay": 229,
-    "timeWeek": 229,
-    "timeMonth": 229,
-    "timeYear": 229,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "PolygonScan",
-    "url": "https://polygonscan.com/",
-    "icon": "https://icons.duckduckgo.com/ip3/polygonscan.com.ico",
-    "slug": "polygon-scan",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 210,
-    "timeDay": 210,
-    "timeWeek": 210,
-    "timeMonth": 210,
-    "timeYear": 210,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "SnowTrace",
-    "url": "https://snowtrace.io/",
-    "icon": "https://icons.duckduckgo.com/ip3/snowtrace.io.ico",
-    "slug": "snow-trace",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 227,
-    "timeDay": 227,
-    "timeWeek": 227,
-    "timeMonth": 227,
-    "timeYear": 227,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "OpenChain",
-    "url": "https://openchain.xyz/",
-    "icon": "https://icons.duckduckgo.com/ip3/openchain.xyz.ico",
-    "slug": "open-chain",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 207,
-    "timeDay": 207,
-    "timeWeek": 207,
-    "timeMonth": 207,
-    "timeYear": 207,
-    "dailyMinutesDown": {}
-  },
-  {
     "name": "Dev Server",
     "url": "$DEV_SERVER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
@@ -106,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-20": 44
+      "2023-03-20": 66
     }
   },
   {
@@ -126,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-20": 43
+      "2023-03-20": 66
     }
   },
   {
@@ -146,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-20": 43
+      "2023-03-20": 66
     }
   }
 ]
