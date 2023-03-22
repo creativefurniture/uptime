@@ -1,7 +1,7 @@
 url: $ESXI_SERVER
-status: up
-code: 200
-responseTime: 197
-lastUpdated: 2023-03-22T21:32:05.438Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2023-03-22T21:46:23.904Z
 startTime: Mon Mar 20 2023 15:27:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
